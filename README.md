@@ -1,2 +1,4 @@
-# Karigar_gold_reconciliation
-myproject
+PROBLEM
+SOLUTION
+FLOW
+TECH STACK
