@@ -117,8 +117,7 @@ Voice / text input
 
 ## Team
 
-*Add team member names and roles.*
+SHREYA B
+VISMAYA JAIN P
 
-## Licence
 
-*Add a licence (for example MIT) before making the repository public.*
